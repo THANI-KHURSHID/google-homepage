@@ -1,0 +1,14 @@
+.logo{
+    position: absolute;
+    bottom:300px;
+    left: 500px;
+
+}
+.inp {
+    position: absolute;
+    top :350px;
+    left : 420px;
+    width : 12cm;
+    color: black;
+    font-family: sans-serif;
+}
